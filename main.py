@@ -7,4 +7,4 @@ def add_expense():
 if __name__ == "__main__":
     add_expense()
 
-print("欢迎使用专业记的账本！")
+print("欢迎使用超级专业记账本！")
