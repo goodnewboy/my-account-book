@@ -9,4 +9,5 @@ if __name__ == "__main__":
 
 
 def show_total():
-    print("总花费：100元")
+    print("总花费：10000元")
+    print("我是主55555，总花费2：20000元")
