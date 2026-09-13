@@ -7,7 +7,4 @@ def add_expense():
 if __name__ == "__main__":
     add_expense()
 
-
-def show_total():
-    print("总花费：10000元")
-    print("我是分支1，总花费2：20000元")
+print("欢迎使用专业记的账本！")
