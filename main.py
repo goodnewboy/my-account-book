@@ -6,3 +6,7 @@ def add_expense():
 
 if __name__ == "__main__":
     add_expense()
+
+
+def show_total():
+    print("总花费：100元")
