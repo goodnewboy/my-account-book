@@ -7,4 +7,5 @@ def add_expense():
 if __name__ == "__main__":
     add_expense()
 
-print("这是一个错误的提交aaaaa")
+print("欢迎使用超级记的账本！")
+print("欢迎使用超级记的账本！00000")
